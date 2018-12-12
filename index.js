@@ -1,0 +1,1 @@
+"use strict";exports.__esModule=!0;var e=["string","number","boolean","object"];function r(r){for(var t=[],n=1;n<arguments.length;n++)t[n-1]=arguments[n];var o=t.find(function(e){return e[0]===r});if(o&&o[1])return o[1];var u=t[t.length-1];return e.includes(typeof u)?u:null}exports.default=r,module.exports=r;
